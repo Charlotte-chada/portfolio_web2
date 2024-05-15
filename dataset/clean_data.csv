@@ -1,0 +1,121 @@
+Year,Location,Heat Wave,Dry Spell,Cold Wave,Wet Spell,Avg Min Temp *C,Yr Rain mm,Irrigation,Crop Type,Crop Damage,Yield,Observer
+1980,Lake Meganhaven,N,N,Y,N,19.7,881.87,Y,Canola,Y,1595.59,Kiara Miller
+1980,East Stevenside,N,N,Y,N,23.1,617.83,Y,Wheat,Y,1427.49,Eric Le
+1980,Davidfurt,N,N,N,N,21.2,1033.66,N,Soy,N,795.43,Taylor Robinson
+1981,Lake Meganhaven,N,N,Y,N,20.3,802.37,Y,Canola,Y,1621.85,Kevin Walters
+1981,East Stevenside,N,N,Y,N,22.7,660.74,Y,Wheat,Y,1414.95,Eric Le
+1981,Davidfurt,N,N,N,N,21.0,1357.04,N,Wheat,N,1196.98,Melinda Evans
+1982,Lake Meganhaven,N,N,Y,N,20.2,896.89,Y,Wheat,Y,1319.09,Emily Brown
+1982,East Stevenside,N,N,Y,N,23.0,561.53,Y,Soy,Y,1024.77,Eric Le
+1982,Davidfurt,N,N,N,N,21.1,1338.88,N,Canola,N,1496.08,Christina Walker
+1983,Lake Meganhaven,N,N,Y,N,20.1,821.94,Y,Soy,Y,913.46,William Barnes
+1983,East Stevenside,N,N,N,N,23.4,731.97,Y,Wheat,N,1435.86,Eric Le
+1983,Davidfurt,N,N,N,N,20.9,1411.27,N,Canola,N,1497.38,Anthony Drake
+1984,Lake Meganhaven,N,N,Y,N,20.2,978.99,Y,Wheat,Y,1315.47,William Barnes
+1984,East Stevenside,N,N,Y,N,23.4,612.66,Y,Soy,Y,1035.23,Brad Nunez
+1984,Davidfurt,N,N,N,N,21.3,1170.74,N,Wheat,N,1194.59,Anthony Drake
+1985,East Stevenside,N,N,Y,N,23.3,750.13,Y,Wheat,Y,1434.07,Alyssa Garcia
+1985,Davidfurt,N,N,N,N,21.5,1488.52,N,Soy,N,793.67,Brenda Tran
+1985,Lake Meganhaven,N,N,N,N,20.5,917.78,Y,Wheat,N,1333.41,William Barnes
+1986,Davidfurt,N,N,N,N,21.3,1307.74,N,Soy,N,794.88,Brenda Tran
+1986,Lake Meganhaven,N,N,Y,N,20.4,959.62,Y,Soy,Y,926.71,Larry Lyons
+1986,East Stevenside,N,N,Y,N,23.3,683.33,Y,Wheat,Y,1435.07,Alyssa Garcia
+1987,Davidfurt,N,N,N,N,21.1,1287.61,N,Wheat,N,1196.13,Brenda Tran
+1987,Lake Meganhaven,N,N,N,N,20.3,1004.35,Y,Wheat,N,1322.58,Laura Carter
+1987,East Stevenside,N,N,Y,N,23.4,737.48,Y,Canola,Y,1737.65,Cynthia Jones
+1988,Davidfurt,N,N,N,Y,21.2,1601.08,N,Soy,N,795.47,Brian Fernandez
+1988,Lake Meganhaven,N,N,Y,N,20.5,1044.85,Y,Canola,Y,1629.66,Jeffrey Contreras
+1988,East Stevenside,N,N,N,N,23.7,699.6,Y,Soy,N,1043.3,Cynthia Jones
+1989,Davidfurt,N,N,N,N,21.4,1460.17,N,Soy,N,794.21,Donald Pena
+1989,Lake Meganhaven,N,N,Y,N,20.7,825.26,Y,Canola,Y,1640.42,Jeffrey Contreras
+1989,East Stevenside,N,N,Y,N,23.4,702.52,Y,Soy,Y,1037.68,Cynthia Jones
+1990,Davidfurt,N,N,N,N,20.8,1381.17,N,Wheat,N,1198.11,Donald Pena
+1990,East Stevenside,N,N,N,N,23.7,707.99,Y,Wheat,N,1444.15,Ebony Thompson
+1990,Lake Meganhaven,N,N,Y,N,20.4,812.26,Y,Soy,Y,928.7,Jeffrey Contreras
+1991,East Stevenside,N,N,N,N,24.0,792.84,Y,Soy,N,1052.33,Ebony Thompson
+1991,Davidfurt,N,N,N,N,21.5,1393.7,N,Soy,N,793.35,Donald Pena
+1991,Lake Meganhaven,N,N,N,N,20.9,1061.03,Y,Canola,N,1647.48,Yolanda Carter
+1992,East Stevenside,N,N,Y,N,23.4,790.23,Y,Soy,Y,1035.69,Ebony Thompson
+1992,Davidfurt,N,N,N,N,21.6,1461.69,N,Soy,N,792.09,Daniel Miller
+1992,Lake Meganhaven,N,N,Y,N,20.2,1099.03,Y,Wheat,Y,1315.6,Justin Chavez
+1993,East Stevenside,N,N,N,N,23.9,774.02,Y,Wheat,N,1450.69,Casey Hernandez
+1993,Davidfurt,N,N,N,N,21.5,1386.32,N,Soy,N,793.4,Daniel Miller
+1993,Lake Meganhaven,N,N,N,N,20.8,1076.4,Y,Soy,N,942.92,Michael Walters
+1994,East Stevenside,N,N,N,N,23.9,777.79,Y,Wheat,N,1450.37,Casey Hernandez
+1994,Davidfurt,N,N,N,N,21.3,1480.93,N,Canola,N,1495.21,Shawna Chen
+1994,Lake Meganhaven,N,N,N,N,20.6,990.04,Y,Soy,N,935.09,Michael Walters
+1995,East Stevenside,N,N,Y,N,24.0,827.77,Y,Canola,Y,1751.8,Casey Hernandez
+1995,Davidfurt,N,N,N,N,21.8,1531.2,N,Canola,N,1490.62,Tyler Watts
+1995,Lake Meganhaven,N,N,N,N,21.0,1144.95,Y,Canola,N,1654.75,Michael Walters
+1996,Lake Meganhaven,N,N,N,Y,20.8,1201.48,Y,Soy,N,946.0,Michael Walters
+1996,East Stevenside,N,N,N,N,23.7,840.17,Y,Wheat,N,1444.17,Casey Hernandez
+1996,Davidfurt,N,N,N,N,21.4,1405.45,N,Wheat,N,1194.07,Tyler Watts
+1997,Lake Meganhaven,N,N,N,N,21.0,1174.79,Y,Soy,N,954.93,Steve Campbell
+1997,East Stevenside,N,N,N,N,23.8,795.28,Y,Wheat,N,1447.29,Francisco Potter
+1997,Davidfurt,N,N,N,N,21.7,1506.08,N,Soy,N,791.0,Erik Chaney
+1998,Lake Meganhaven,N,Y,N,N,21.2,1158.94,Y,Canola,N,1660.83,Steve Campbell
+1998,East Stevenside,N,N,N,Y,23.8,841.68,Y,Soy,N,1048.27,Karen Hall
+1998,Davidfurt,N,N,N,Y,21.9,1653.58,N,Wheat,N,1188.71,Fred Smith
+1999,East Stevenside,Y,N,N,Y,24.2,922.79,Y,Soy,N,1055.61,Russell Dennis
+1999,Davidfurt,N,N,N,N,21.9,1397.21,N,Canola,N,1489.0,Steven Whitehead
+1999,Lake Meganhaven,Y,N,N,Y,21.3,1205.5,Y,Wheat,N,1364.76,Steve Campbell
+2000,Davidfurt,N,N,N,Y,22.0,1588.47,N,Soy,N,788.57,Steven Whitehead
+2000,East Stevenside,N,Y,N,N,24.2,836.09,Y,Canola,Y,1755.72,Russell Dennis
+2000,Lake Meganhaven,Y,N,N,Y,21.1,1271.03,Y,Wheat,N,1358.29,Matthew Bray
+2001,Davidfurt,N,Y,N,N,22.3,1556.63,N,Canola,N,1484.42,Jamie Johnson
+2001,East Stevenside,N,N,N,Y,23.9,923.45,Y,Soy,N,1050.32,John Smith
+2001,Lake Meganhaven,N,N,N,N,21.0,1188.47,Y,Canola,N,1654.13,Debra Hahn
+2002,Lake Meganhaven,N,N,N,Y,20.9,1274.29,Y,Wheat,N,1349.42,Gregory Navarro
+2002,Davidfurt,N,N,N,Y,22.2,1791.18,N,Canola,N,1484.99,Jamie Johnson
+2002,East Stevenside,Y,N,N,Y,24.3,864.74,Y,Wheat,N,1458.47,Alexis Griffith
+2003,East Stevenside,N,Y,N,N,24.2,832.29,Y,Canola,N,1756.98,Alexis Griffith
+2003,Lake Meganhaven,Y,Y,N,N,21.2,1187.47,Y,Soy,N,959.46,Alicia Gray
+2003,Davidfurt,Y,N,N,Y,22.2,1941.31,N,Canola,N,1485.8,Lisa Cisneros
+2004,Davidfurt,N,Y,N,N,21.9,1430.67,N,Soy,N,788.65,Lisa Cisneros
+2004,East Stevenside,Y,N,N,Y,24.3,914.46,Y,Soy,N,1058.36,Alexis Griffith
+2004,Lake Meganhaven,Y,N,N,Y,21.9,1312.53,Y,Canola,N,1686.77,Alicia Gray
+2005,Lake Meganhaven,Y,N,N,Y,21.6,1409.44,Y,Canola,N,1675.55,Alicia Gray
+2005,Davidfurt,N,N,N,Y,22.3,1892.43,N,Canola,Y,1484.29,Lisa Cisneros
+2005,East Stevenside,Y,N,N,Y,24.4,963.95,Y,Soy,N,1061.56,Anthony Potter
+2006,Lake Meganhaven,Y,N,N,Y,21.6,1367.74,Y,Soy,N,977.56,Alicia Gray
+2006,East Stevenside,N,N,N,Y,24.2,993.94,Y,Canola,N,1757.57,Anthony Potter
+2006,Davidfurt,N,N,N,Y,22.4,1578.49,N,Canola,Y,1482.26,Lisa Cisneros
+2007,Lake Meganhaven,Y,N,N,Y,21.7,1390.41,Y,Canola,N,1679.69,Angela Burton
+2007,Davidfurt,N,N,N,Y,22.0,1703.27,N,Soy,N,788.0,Lisa Cisneros
+2007,East Stevenside,Y,N,N,Y,24.5,1062.77,Y,Canola,N,1763.15,Anthony Potter
+2008,East Stevenside,Y,N,N,Y,24.2,1006.05,Y,Wheat,N,1457.04,Anthony Potter
+2008,Davidfurt,N,N,N,Y,22.3,1996.28,N,Wheat,Y,1183.44,Lisa Cisneros
+2008,Lake Meganhaven,Y,N,N,Y,21.6,1394.76,Y,Soy,N,976.32,Holly Cohen
+2009,East Stevenside,Y,N,N,Y,24.3,1047.32,Y,Wheat,N,1459.4,Anthony Potter
+2009,Davidfurt,N,N,N,Y,22.5,1873.59,N,Soy,Y,781.79,Kristie Morris
+2009,Lake Meganhaven,Y,N,N,Y,21.7,1298.25,Y,Wheat,N,1381.38,Sherri Torres
+2010,East Stevenside,Y,N,N,Y,24.6,1128.61,Y,Canola,N,1764.33,Christopher Rodriguez
+2010,Davidfurt,N,N,N,Y,22.5,1825.12,N,Wheat,Y,1181.67,Kristie Morris
+2010,Lake Meganhaven,Y,N,N,Y,21.8,1443.68,Y,Canola,N,1685.02,Sherri Torres
+2011,East Stevenside,Y,N,N,Y,24.6,1063.47,Y,Soy,N,1064.6,Kim French
+2011,Davidfurt,N,N,N,Y,22.3,1650.03,N,Wheat,N,1184.13,Kristie Morris
+2011,Lake Meganhaven,Y,N,N,Y,22.0,1498.32,Y,Canola,N,1692.17,Sherri Torres
+2012,Lake Meganhaven,Y,N,N,Y,21.7,1545.24,Y,Canola,N,1681.3,Ashley Soto
+2012,East Stevenside,Y,N,N,Y,24.5,1049.88,Y,Soy,N,1064.08,Kim French
+2012,Davidfurt,N,N,N,Y,22.3,1717.9,N,Wheat,N,1184.38,Jonathan Jones
+2013,Davidfurt,N,N,N,Y,22.6,1843.12,N,Soy,Y,779.66,Robert Bryant
+2013,East Stevenside,Y,N,N,Y,24.5,1036.44,Y,Wheat,N,1463.12,Kim French
+2013,Lake Meganhaven,Y,N,N,Y,22.1,1641.48,Y,Wheat,N,1394.89,Ashley Soto
+2014,East Stevenside,Y,N,N,Y,24.8,1179.88,Y,Canola,N,1768.65,Kim French
+2014,Davidfurt,N,N,N,Y,22.5,1857.03,N,Soy,Y,781.77,Veronica Juarez
+2014,Lake Meganhaven,Y,N,N,Y,22.5,1509.71,Y,Soy,N,1010.75,Ashley Soto
+2015,East Stevenside,Y,N,N,Y,25.0,1052.93,Y,Wheat,N,1472.9,Veronica Johnson
+2015,Davidfurt,N,N,N,Y,23.0,2031.85,N,Soy,Y,773.81,Veronica Juarez
+2015,Lake Meganhaven,Y,N,N,Y,22.1,1493.01,Y,Soy,N,994.71,George Nelson
+2016,Lake Meganhaven,Y,N,N,Y,21.9,1655.96,Y,Canola,N,1688.79,Brandon Sandoval
+2016,East Stevenside,Y,N,N,Y,24.8,986.71,Y,Canola,N,1768.87,Craig Morris
+2016,Davidfurt,N,N,N,Y,22.7,1956.04,N,Canola,Y,1477.63,Cynthia Pearson
+2017,Lake Meganhaven,Y,N,N,Y,22.0,1808.5,Y,Wheat,N,1391.62,Brandon Sandoval
+2017,Davidfurt,N,N,N,Y,22.7,1957.19,N,Soy,Y,778.65,Sarah Cross
+2017,East Stevenside,Y,N,N,Y,24.8,1153.43,Y,Wheat,N,1469.57,Kayla Sanchez
+2018,East Stevenside,Y,N,N,Y,24.8,1150.6,Y,Soy,N,1069.71,Leah Young
+2018,Lake Meganhaven,Y,N,N,Y,22.0,1708.01,Y,Wheat,N,1392.11,Jeffery Cochran
+2018,Davidfurt,N,N,N,Y,23.2,2024.01,N,Canola,Y,1468.79,Sarah Cross
+2019,Davidfurt,N,N,N,Y,23.1,1912.88,N,Wheat,Y,1170.3,Donald Hawkins
+2019,Lake Meganhaven,Y,N,N,Y,22.5,1610.14,Y,Canola,N,1708.54,Jeffery Cochran
+2019,East Stevenside,Y,N,N,Y,24.6,1231.21,Y,Canola,N,1764.96,Brandon Valdez
